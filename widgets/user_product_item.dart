@@ -2,7 +2,7 @@ import 'package:app4/screens/edit_product_screen.dart';
 import 'package:provider/provider.dart';
 import '../providers/products.dart';
 import 'package:flutter/material.dart';
-
+//am rezolvat
 class UserProductItem extends StatelessWidget {
   String title, imageUrl, id;
   UserProductItem(this.title, this.imageUrl, this.id);
@@ -14,7 +14,7 @@ class UserProductItem extends StatelessWidget {
         backgroundImage: NetworkImage(imageUrl),
       ),
       trailing: SizedBox(
-        width: 100,
+        width: 101,
         child: Row(children: [
           IconButton(
             onPressed: () {
