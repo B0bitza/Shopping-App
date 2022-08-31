@@ -1,3 +1,2 @@
-# Flying-Bro
-Proiect PV
-Aplicatie de Shopping
+# Shopping-App
+Visual programming project
